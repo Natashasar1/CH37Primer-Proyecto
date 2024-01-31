@@ -1,2 +1,2 @@
 # CH37Primer-Proyecto
-Primer proyecto de GitHub
+Primer -sproyecto de GitHub
